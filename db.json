@@ -10,6 +10,72 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
+    },
+    {
+      "id":2,
+      "image_url": "https://m.media-amazon.com/images/I/81ej-GuREkL._AC_UY218_.jpg",
+      "book_name": "The Keeper of Happy Endings",
+      "author": "Barbara Davis",
+      "genre": "fiction",
+      "edition": "2022",
+      "publisher": "Barbara Davis",
+      "cost": 1699,
+      "borrowed": false
+    },
+    {
+      "id":3,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81LjzZhO+fL._AC_UL116_SR116,116_.jpg",
+      "book_name": "Operation Underworld: How the Mafia",
+      "author": "Matthew Black",
+      "genre": "science",
+      "edition": "2020",
+      "publisher": "Matthew Black",
+      "cost": 899,
+      "borrowed": false
+    },
+    {
+      "id":4,
+      "image_url": "https://m.media-amazon.com/images/I/31XnCvrGC2L._SX320_BO1,204,203,200_.jpg",
+      "book_name": "The Age of AI: And Our Human Future",
+      "author": "Henry A Kissinge",
+      "genre": "business",
+      "edition": "2022",
+      "publisher": "Henry A Kissinge",
+      "cost": 1599,
+      "borrowed": false
+    },
+    {
+      "id":5,
+      "image_url": "https://m.media-amazon.com/images/I/41VNrYdg7EL._SX281_BO1,204,203,200_.jpg",
+      "book_name": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "genre": "tech",
+      "edition": "2021",
+      "publisher": "John Steinbeck",
+      "cost": 1499,
+      "borrowed": false
+    },
+    {
+      "id":6,
+      "image_url": "https://m.media-amazon.com/images/I/51eeAWItwbL._SX281_BO1,204,203,200_.jpg",
+      "book_name": "Lord of the Flies",
+      "author": "William Golding",
+      "genre": "history",
+      "edition": "2020",
+      "publisher": "William Golding",
+      "cost": 999,
+      "borrowed": false
+    },
+    {
+      "id":7,
+      "image_url": "https://m.media-amazon.com/images/I/51N5qVjuKAL._SX309_BO1,204,203,200_.jpg",
+      "book_name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "science",
+      "edition": "2022",
+      "publisher": "Harper Lee",
+      "cost": 1099,
+      "borrowed": false
     }
   ]
 }
